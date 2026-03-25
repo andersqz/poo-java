@@ -18,5 +18,11 @@ class ContaBancaria {
         }
     }
 
-
+    public void setLimite(double limite) {
+        if (limite < 0) {
+            System.out.println("Não pode alterar o limite para menor que 0");
+        } else {
+            this.limite = limite;
+        }
+    }
 }
