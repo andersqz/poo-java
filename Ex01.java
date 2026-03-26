@@ -45,7 +45,7 @@ class Aluno {
 
     @Override
     public String toString() {
-        return "nome: " + this.nome + "|"+ "nota: " + nota + "|" +"idade: " + idade;
+        return "nome: [" + this.nome + "] | ["+ "nota: " + nota + "] | [" +"idade: " + idade + "]";
     }
 
     // getters
