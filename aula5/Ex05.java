@@ -1,8 +1,6 @@
-import java.lang.reflect.Array;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 public class Ex05 {
     public static void main(String[] args) {

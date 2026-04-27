@@ -1,1 +1,0 @@
-diretório criado para comportar códigos com POO em C# (minha linguagem principal)
